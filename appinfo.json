@@ -1,18 +1,18 @@
 {
-    "appKeys": {},
-    "versionCode": 1,
-    "shortName": "Temple Temp",
     "resources": {
         "media": []
     },
     "capabilities": [
         ""
     ],
+    "uuid": "4042bd9b-4343-4ddc-aada-21915dacb587",
+    "shortName": "Temple Temp",
+    "versionCode": 1,
+    "companyName": "stu@flatfootfox.com",
+    "appKeys": {},
+    "longName": "Temple Temp",
     "versionLabel": "1.0",
-    "companyName": "FlatFootFox",
     "watchapp": {
         "watchface": true
-    },
-    "longName": "Temple Temp",
-    "uuid": "4042bd9b-4343-4ddc-aada-21915dacb587"
+    }
 }
